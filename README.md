@@ -23,6 +23,9 @@
 ><a href="https://wa.me/639052877252?text=Hi%20Im%20Jade%20☺️"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 >
 ><a href="https://t.me/poisLs"><img src="https://img.shields.io/badge/telegram-poiskLs-blue.svg">
+>
+><a href="https://www.buymeacoffee.com/bsit3sbuhaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
 
 ####  ____________________________________
 ![Alt text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/120407.gif)
