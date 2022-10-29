@@ -4,6 +4,12 @@
 - go to Games | Apps folder
 - you will get some offline games..
 - you will getbsome mod applications..
+##
+**Apps**
+![alt
+text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic1s.jpg)
+![alt
+text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic2s.jpg)
 
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
