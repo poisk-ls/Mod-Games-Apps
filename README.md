@@ -3,9 +3,11 @@
 - view raw
 - go to Games | Apps folder
 - you will get some offline games..
-- you will getbsome mod applications..
+- you will get some mod applications..
+
 ##
-**Apps**
+**Apps:**
+>**Features mod:**
 ![alt
 text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic1s.jpg)
 ![alt
