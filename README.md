@@ -1,8 +1,9 @@
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Mod+Games+☣️)
 
 - view raw
-- go to Games folder
-- you well some offline games
+- go to Games | Apps folder
+- you will get some offline games..
+- you will getbsome mod applications..
 
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
