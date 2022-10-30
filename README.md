@@ -2,8 +2,8 @@
 
 - view raw
 - go to Games | Apps folder
-- you will get some offline games..
-- you will get some mod applications..
+- you will see some offline games..
+- you will see some mod applications..
 
 ##
 **Apps:**
