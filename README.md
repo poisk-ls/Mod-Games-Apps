@@ -2,6 +2,8 @@
 
 ### List
 - [2024](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/2024)
+- [Apps](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Apps)
+- [Games](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Games)
 
 ## Readme
 - view raw
