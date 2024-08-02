@@ -42,6 +42,7 @@ text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic2s.jpg)
 >
 ><a href="https://www.buymeacoffee.com/bsit3sbuhaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
+`Others Are not Featured out!`
 
 ####  ____________________________________
 ![Alt text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/120407.gif)
