@@ -7,7 +7,7 @@
 
 ## Readme
 - Cracked Programs ✔️
-- Tested 💯 ✔️ 
+- Tested 💯
 - Offline Games/App ✔️ 
 - Modded/Not Modded ✔️ 
 - No Ads ✔️ 
