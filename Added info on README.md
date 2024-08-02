@@ -4,7 +4,7 @@
 - [2024](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/2024)
 - [Apps](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Apps)
 - [Games](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Games)
-
+#
 ## Readme
 - Cracked Programs ✔️
 - Tested 💯 ✔️ 
@@ -20,6 +20,8 @@ text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic1s.jpg)
 ![alt
 text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic2s.jpg)
 
+
+`Others Are not Featured out!`
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
 #### ____________________________________
@@ -41,8 +43,6 @@ text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic2s.jpg)
 ><a href="https://t.me/poisLs"><img src="https://img.shields.io/badge/telegram-poiskLs-blue.svg">
 >
 ><a href="https://www.buymeacoffee.com/bsit3sbuhaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-
-`Others Are not Featured out!`
 
 ####  ____________________________________
 ![Alt text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/120407.gif)
