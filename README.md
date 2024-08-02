@@ -5,13 +5,13 @@
 - [Apps](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Apps)
 - [Games](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Games)
 
-## Readme
+## Info
 - Cracked Programs ✔️
 - Tested 💯
-- Offline Games/App ✔️ 
-- Modded/Not Modded ✔️ 
-- No Ads ✔️ 
-
+- Offline Games/Apps ✔️ 
+- Modded/Not ✔️ 
+- No Ads ✔️
+  
 ##
 **Apps:**
 >**Features mod:**
