@@ -6,10 +6,11 @@
 - [Games](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Games)
 
 ## Readme
-- view raw
-- go to Games | Apps folder
-- you will see some offline games..
-- you will see some mod applications..
+- Cracked Programs ✔️
+- Tested 💯 ✔️ 
+- Offline Games/App ✔️ 
+- Modded/Not Modded ✔️ 
+- No Ads ✔️ 
 
 ##
 **Apps:**
