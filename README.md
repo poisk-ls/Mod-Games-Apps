@@ -1,29 +1,46 @@
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Mod-Games-Apps+☣️)
-#
-### List
-- [2024](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/2024)
-- [Apps](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Apps)
-- [Games](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Games)
+<!-- Title Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&center=true&vCenter=true&lines=☣️+Mod-Games-Apps+☣️" alt="Typing SVG">
+</h3>
 
-## Info
-- Cracked Programs ✔️
-- Tested 💯
-- Offline Games/Apps ✔️ 
-- Modded/Not ✔️ 
-- No Ads ✔️
-  
-##
-**Apps:**
->**Features mod:**
-![alt
-text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic1s.jpg)
-![alt
-text](https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic2s.jpg)
+---
+
+## 📁 Repository List
+- 🔗 [2024 Mods](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/2024)
+- 🔗 [All Apps](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Apps)
+- 🔗 [All Games](https://github.com/poisk-ls/Mod-Games-Apps/tree/main/Games)
+
+---
+
+## 🔍 Overview
+
+✅ Cracked Programs  
+✅ Fully Tested 💯  
+✅ Offline Supported  
+✅ Modded / Non-modded  
+✅ No Ads  
+
+---
+
+## 📸 Featured Apps & Games
+
+<p align="center">
+  <img src="https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic1s.jpg" 
+       alt="Featured App 1" 
+       style="width: 400px; height: 390px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 40px;">
+  <br>
+  <img src="https://github.com/poisk-ls/Mod-Games/blob/main/asset/pic2s.jpg" 
+       alt="Featured App 2" 
+       style="width: 400px; height: 250px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</p>
 
 
-`Others Are not Featured out!`
+> _Others are not featured here!_
 
-**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=true&width=435&lines=...enjoy!!" alt="Enjoy Typing SVG">
+</h3>
+
 #
 >**Get in Touch**
 >
